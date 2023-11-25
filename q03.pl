@@ -17,3 +17,4 @@ cidades_no_pais(Cidade, Pais) :-
 % Exemplo de consulta: Encontrar todas as cidades na Argentina
 % ?- cidades_no_pais(Cidade, argentina).
 ?- cidades_no_pais(Cidade, argentina).
+
